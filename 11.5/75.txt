@@ -1,0 +1,32 @@
+Transmittal Report:
+Created by AutoCAD eTransmit 29 November 2015, 22:53.
+
+Drawing:
+This is a transmittal based on 75.dwg.
+
+Files:
+
+Root Drawing:
+	75.dwg
+
+AutoCAD Drawing (External) References:
+	Dining table.dwg
+	Drawing room furniture 1.dwg
+	Chairs drawing room.dwg
+
+The following files were excluded from the transmittal:
+	acad.fmp
+	Fonts\simplex.shx
+	Fonts\arial.ttf
+
+
+Notes for distribution:
+
+.DWG external reference files:
+External reference (xref) paths may be present.  Make sure these paths work or that the root drawing is using the correct references.
+eTransmit does not include files required by xrefs unless they are also required by the root drawing.  In particular, plot style tables and overlay xrefs that are not used by the root drawing are omitted
+
+The AutoCAD variable FONTALT was set to:
+C:\Users\Jaiprakash\appdata\roaming\autodesk\autocad 2016\r20.1\enu\support\simplex.shx
+Please make sure that the FONTALT variable is set to this file or an equivalent before opening any drawings.  All text styles with missing fonts are automatically set to this font.
+
